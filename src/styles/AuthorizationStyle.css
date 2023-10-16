@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://blog.drastosa.com.br/wp-content/uploads/2022/10/a-melhor-bola-de-futebol-para-comprar-1024x683.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form{
+    font-size: 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input{
+    height: 60px;
+    border-radius: 5px;
+    padding: 0px 5px;
+    background-color: #CCC;
+}
+
+button{
+    height: 40px;
+    background-color: #111;
+    border: none;
+    color: #ccc;
+    font-weight: 800;
+}
+
+a{
+    font-size: 28px;
+    color: #CCC;
+}
